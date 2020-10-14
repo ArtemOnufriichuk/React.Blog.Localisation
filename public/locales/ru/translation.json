@@ -1,0 +1,28 @@
+{
+    "home": {
+        "title" : "Все посты",
+        "login" : "Вход",
+        "logout": "Выйти",
+        "post": {
+            "title" : "Заголовок: ",
+            "text" : "Текст: ",
+            "comments": "Коментарии",
+            "commentFrom": "От: ",
+            "commentText": "Текст: "
+        }
+    },
+    "profile": {
+        "title" : "Профиль",
+        "addPost": "Добавить пост",
+        "addPostClose": "Закрыть",
+        "editPost": "Сохранить",
+        "post": {
+            "title" : "Заголовок: ",
+            "text" : "Текст: ",
+            "date" : "Дата: ",
+            "comments": "Коментарии",
+            "commentFrom": "От: ",
+            "commentText": "Текст: "
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "home": {
+        "title" : "All Posts",
+        "login" : "LogIn",
+        "logout": "LogOut",
+        "post": {
+            "title" : "Title: ",
+            "text" : "Text: ",
+            "comments": "Comments",
+            "commentFrom": "From: ",
+            "commentText": "Text: "
+        }
+    },
+    "profile": {
+        "title" : "Profile",
+        "addPost": "Add post",
+        "addPostClose": "Close",
+        "editPost": "Save",
+        "post": {
+            "title" : "Title: ",
+            "text" : "Text: ",
+            "date" : "Date: ",
+            "comments": "Comments",
+            "commentFrom": "From: ",
+            "commentText": "Text: "
+        }
+    }
+}
