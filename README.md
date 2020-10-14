@@ -17,7 +17,7 @@ you may login any of db-users
 Login: user.name
 Password: admin 
 
-### `Dev stsck`
+### `Dev stack`
 
 1) json-server - fake server
 2) i18next - translation 
