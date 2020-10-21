@@ -1,0 +1,17 @@
+Create a blog app like a Twitter using JSON server.
+1. Implement the main page with the random posts from different users.
+2. Implement the user own page with his posts.
+3. Each post may contain the comments. By default, the comments are hidden.
+Additional tasks.
+4. Implement post management: create, update, delete.
+5. Implement authorization.
+6. Make the app responsive.
+7. Make dark and light themes.
+8. Make an app localizable.
+Tech Stack requirements:
+ Frontend:
+1) React or native JavaScript;
+2) HTML;
+3) CSS;
+ Backend:
+local JSON server based on https://github.com/typicode/json-server.

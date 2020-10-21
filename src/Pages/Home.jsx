@@ -1,6 +1,8 @@
 import React from 'react'
 import { UserPosts } from '../Components';
 
+import '../Styles/Home.scss'
+
 function Home({ posts, users, comments, translate }) {
     return (
         <>

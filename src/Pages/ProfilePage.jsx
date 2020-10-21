@@ -2,6 +2,8 @@ import React, { useRef, useState } from 'react'
 import { ProfilePagePosts } from '../Components';
 import axios from 'axios';
 
+import '../Styles/Profile.scss'
+
 function ProfilePage({ currentUser, posts, comments, translate }) {
     const [openAddPost, setOpenAddPost] = useState(false)
     const currentPosts = posts.filter(post => post.userId === currentUser.id)

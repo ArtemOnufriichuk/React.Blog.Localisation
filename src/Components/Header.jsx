@@ -2,6 +2,7 @@ import React, { useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 
 import jwt from 'jsonwebtoken';
+import '../Styles/Header.scss'
 
 function Header({ users, setToken, token, currentUser, changeLanguage, translate }) {
 	const [modalVisible, setModalViisible] = useState(false)

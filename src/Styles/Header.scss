@@ -1,0 +1,31 @@
+@import 'vars';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &__logo {
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    &__loggined {
+        display: flex;
+        align-items: center;
+
+        a {
+            display: flex;
+            align-items: center;
+        }
+
+        &--img {
+            width: 30px;
+        }
+    }
+
+    &__notloggined {
+        display: flex;
+        align-items: center;
+    }
+}
